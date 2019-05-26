@@ -1,4 +1,4 @@
-num = 5
+num = 6
 space = num -1
 star = num - space
 for i in range(num):
