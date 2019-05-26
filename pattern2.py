@@ -1,4 +1,4 @@
-num = int(input("enter the number"))
+num = 4
 space = num -1
 star = num - space
 for i in range(num):
